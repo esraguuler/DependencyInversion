@@ -1,0 +1,14 @@
+C:\Users\esrag\source\repos\DependencyInversion\DependencyInversion\bin\Debug\DependencyInversion.exe.config
+C:\Users\esrag\source\repos\DependencyInversion\DependencyInversion\bin\Debug\DependencyInversion.exe
+C:\Users\esrag\source\repos\DependencyInversion\DependencyInversion\bin\Debug\DependencyInversion.pdb
+C:\Users\esrag\source\repos\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.csprojAssemblyReference.cache
+C:\Users\esrag\source\repos\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.exe
+C:\Users\esrag\source\repos\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.pdb
+C:\Users\esrag\OneDrive\Masaüstü\DependencyInversion\DependencyInversion\bin\Debug\DependencyInversion.exe.config
+C:\Users\esrag\OneDrive\Masaüstü\DependencyInversion\DependencyInversion\bin\Debug\DependencyInversion.exe
+C:\Users\esrag\OneDrive\Masaüstü\DependencyInversion\DependencyInversion\bin\Debug\DependencyInversion.pdb
+C:\Users\esrag\OneDrive\Masaüstü\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.csprojAssemblyReference.cache
+C:\Users\esrag\OneDrive\Masaüstü\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\esrag\OneDrive\Masaüstü\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.exe
+C:\Users\esrag\OneDrive\Masaüstü\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.pdb
